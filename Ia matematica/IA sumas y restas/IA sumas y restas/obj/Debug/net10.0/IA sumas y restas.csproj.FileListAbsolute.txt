@@ -1,0 +1,28 @@
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.exe
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.deps.json
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.runtimeconfig.json
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.dll
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.pdb
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.AssemblyInfo.cs
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.dll
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\refint\IA sumas y restas.dll
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.pdb
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.genruntimeconfig.cache
+C:\Users\bruno\source\repos\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\ref\IA sumas y restas.dll
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.exe
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.deps.json
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.runtimeconfig.json
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.dll
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\bin\Debug\net10.0\IA sumas y restas.pdb
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.dll
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\refint\IA sumas y restas.dll
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.pdb
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\IA sumas y restas.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Codigo\Ia matematica\IA sumas y restas\IA sumas y restas\obj\Debug\net10.0\ref\IA sumas y restas.dll
