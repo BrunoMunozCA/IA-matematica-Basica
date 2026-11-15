@@ -1,79 +1,49 @@
-﻿using System;
+﻿// ============================================================================
+// IA Matemática — Program.cs
+// ============================================================================
+// Punto de entrada de la aplicación de consola. Mantiene el bucle principal
+// donde el usuario escribe y la IA responde, con el formato original:
+//   Tú: <entrada>
+//   IA:  <respuesta>
+// ============================================================================
+
+using System;
+
+namespace IAMatematica;
 
 class Program
 {
+    /// <summary>Punto de entrada. Ejecuta el bucle de conversación de la IA.</summary>
     static void Main()
     {
-        Console.WriteLine("__IA Matematica Basica__");
-        Console.WriteLine("Solo sirve para hacer operaciones matematicas básicas");
-        Console.WriteLine("Ejemplos de operaciones: suma 2 8 | resta 9 4 | multiplica 6 7 | divide 30 5");
+        Console.WriteLine("__IA Matemática__");
+        Console.WriteLine("Soy una IA personal dedicada a la matemática que aprende de ti.");
+        Console.WriteLine("Ejemplos: suma 2 8 | resta 9 4 | multiplica 6 7 | divide 30 5");
+        Console.WriteLine("Escribe 'ayuda' para ver todo lo que puedo hacer.");
         Console.WriteLine("Escribe 'salir' para terminar.\n");
 
+        // Cargar la memoria persistente (la "memoria" de la IA entre sesiones).
+        MemoriaUsuario memoria = MemoriaUsuario.Cargar();
+        MotorMatematico motor = new(memoria);
+
+        // Bucle principal de la consola.
         while (true)
         {
             Console.Write("Tú: ");
-            string entrada = Console.ReadLine()?.Trim().ToLower() ?? "";
+            string entrada = Console.ReadLine()?.Trim() ?? "";
 
-            if (entrada == "salir")
+            // Salir del programa.
+            if (entrada.Equals("salir", StringComparison.OrdinalIgnoreCase))
             {
-                Console.WriteLine("IA: ¡Hasta luego!");
+                string despedida = motor.Resolver("adiós");
+                Console.WriteLine("IA: " + despedida);
                 break;
             }
 
-            string respuesta = Responder(entrada);
+            // Pedir al motor que interprete y responder.
+            string respuesta = motor.Resolver(entrada);
             Console.WriteLine("IA: " + respuesta);
             Console.WriteLine();
         }
-    }
-
-    static string Responder(string texto)
-    {
-        // --- Saludos ---
-        if (texto.Contains("hola") || texto == "hi" || texto == "hey")
-            return "¡Hola! ¿En qué te puedo ayudar?";
-
-        if (texto.Contains("como estas") || texto.Contains("cómo estás") || texto.Contains("que tal"))
-            return "Estoy muy bien, gracias. ¿Y tú?";
-
-        // --- Operaciones matemáticas ---
-        // Formato esperado: "suma 5 3", "resta 10 4", etc.
-        string[] partes = texto.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-
-        if (partes.Length >= 3)
-        {
-            string operacion = partes[0];
-
-            if (double.TryParse(partes[1], out double a) && double.TryParse(partes[2], out double b))
-            {
-                switch (operacion)
-                {
-                    case "suma":
-                    case "sumar":
-                    case "+":
-                        return $"{a} + {b} = {a + b}";
-
-                    case "resta":
-                    case "restar":
-                    case "-":
-                        return $"{a} - {b} = {a - b}";
-
-                    case "multiplica":
-                    case "multiplicar":
-                    case "*":
-                    case "x":
-                        return $"{a} × {b} = {a * b}";
-
-                    case "divide":
-                    case "dividir":
-                    case "/":
-                        if (b == 0)
-                            return "No se puede dividir entre cero.";
-                        return $"{a} ÷ {b} = {a / b}";
-                }
-            }
-        }
-
-        // Si no entiende nada
-        return "No te entendí. Prueba con: hola, como estas, suma 5 3, resta 10 4, multiplica 6 7, divide 20 4";
     }
 }
