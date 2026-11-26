@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\Codigo\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\IA sumas y restas.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\IA sumas y restas.csproj",
       "projectName": "IA sumas y restas",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\Codigo\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\IA sumas y restas.csproj",
+      "projectPath": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\IA sumas y restas.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\Codigo\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

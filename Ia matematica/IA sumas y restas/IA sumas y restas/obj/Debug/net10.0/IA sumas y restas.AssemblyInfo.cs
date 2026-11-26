@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IA sumas y restas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b37304202ff7714b2678f7d38f3aafcfb9ad1bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("IA sumas y restas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IA sumas y restas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

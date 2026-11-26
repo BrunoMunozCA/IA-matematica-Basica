@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82044F44-1416-D1CA-46D5-46DA183EF07A}|IA sumas y restas\\IA sumas y restas.csproj|c:\\users\\bruno\\vr pruea\\ia-matematica-basica\\ia matematica\\ia sumas y restas\\ia sumas y restas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82044F44-1416-D1CA-46D5-46DA183EF07A}|IA sumas y restas\\IA sumas y restas.csproj|solutionrelative:ia sumas y restas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82044F44-1416-D1CA-46D5-46DA183EF07A}|IA sumas y restas\\IA sumas y restas.csproj|c:\\users\\bruno\\vr pruea\\ia-matematica-basica\\ia matematica\\ia sumas y restas\\ia sumas y restas\\motormatematico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82044F44-1416-D1CA-46D5-46DA183EF07A}|IA sumas y restas\\IA sumas y restas.csproj|solutionrelative:ia sumas y restas\\motormatematico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82044F44-1416-D1CA-46D5-46DA183EF07A}|IA sumas y restas\\IA sumas y restas.csproj|c:\\users\\bruno\\vr pruea\\ia-matematica-basica\\ia matematica\\ia sumas y restas\\ia sumas y restas\\memoriausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82044F44-1416-D1CA-46D5-46DA183EF07A}|IA sumas y restas\\IA sumas y restas.csproj|solutionrelative:ia sumas y restas\\memoriausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotorMatematico.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\MotorMatematico.cs",
+              "RelativeDocumentMoniker": "IA sumas y restas\\MotorMatematico.cs",
+              "ToolTip": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\MotorMatematico.cs",
+              "RelativeToolTip": "IA sumas y restas\\MotorMatematico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T19:02:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemoriaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\MemoriaUsuario.cs",
+              "RelativeDocumentMoniker": "IA sumas y restas\\MemoriaUsuario.cs",
+              "ToolTip": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\MemoriaUsuario.cs",
+              "RelativeToolTip": "IA sumas y restas\\MemoriaUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T18:55:47.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\Program.cs",
+              "RelativeDocumentMoniker": "IA sumas y restas\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\VR PRUEA\\IA-matematica-Basica\\Ia matematica\\IA sumas y restas\\IA sumas y restas\\Program.cs",
+              "RelativeToolTip": "IA sumas y restas\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T18:40:08.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
